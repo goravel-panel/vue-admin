@@ -82,3 +82,7 @@ goravel
 - 登录日志
 
 ![登录日志](/snapshot/login-log.png)
+
+- 暗黑模式
+
+![暗黑模式](/snapshot/dark.png)
