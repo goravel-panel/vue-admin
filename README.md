@@ -47,11 +47,11 @@ goravel
 
 - 角色列表
 
-![角色列表](/snapshot/menu-list.png)
+![角色列表](/snapshot/role-list.png)
 
 - 添加角色
 
-![添加角色](/snapshot/menu-add.png)
+![添加角色](/snapshot/role-add.png)
 
 - 账号列表
 
