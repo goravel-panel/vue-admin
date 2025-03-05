@@ -1,0 +1,12 @@
+.idea/
+.vscode/
+node_modules/
+dist/
+
+*.local
+.DS_Store
+auto-imports.d.ts
+components.d.ts
+.eslintrc-auto-import.json
+
+

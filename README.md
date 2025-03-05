@@ -1,8 +1,23 @@
 # goravel-vue-admin
-### 前端技术栈
+
+### 技术栈
 vue3 + element-plus  + tailwindcss + vite
-### 后端技术栈
-goravel
+
+### 安装 yarn
+```go
+npm install -g yarn
+yarn -v
+```
+
+### 启动服务
+
+```go
+// 安装依赖
+yarn install
+// 启动服务
+yarn dev
+```
+
 ### 页面预览
 - 登录页面
 

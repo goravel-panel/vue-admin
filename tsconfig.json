@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "noImplicitAny": false,
+    "allowJs": false,
+    "verbatimModuleSyntax": true,
+    "baseUrl": "./",
+    "types": ["node", "pinia"],
+    "lib": ["ESNext", "DOM"],
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  },
+  "include": [
+    "src/**/*.ts",
+    "src/**/*.d.ts",
+    "src/**/*.vue",
+    "global.d.ts",
+    "auto-imports.d.ts",
+    "components.d.ts"
+  ],
+  "exclude": ["node_modules", "dist", "**/*.js"],
+  "extends": "@vue/tsconfig/tsconfig.dom.json",
+  "references": [
+    {
+      "path": "./tsconfig.config.json"
+    }
+  ]
+}
