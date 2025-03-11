@@ -1,22 +1,24 @@
 # goravel-vue-admin
 
-### 技术栈
+### Technology Stack
 vue3 + element-plus  + tailwindcss + vite
 
-### Installing yarn
+### 安装 yarn
 ```go
 npm install -g yarn
 yarn -v
 ```
 
-### Starting Service
+### 启动服务
 
 ```go
-yarn install # Install dependencies
-yarn dev # Run the server
+// 安装依赖
+yarn install
+// 启动服务
+yarn dev
 ```
 
-Visit http://localhost:9000/cms to enter login page, default system administrator account/password is `admin`/`123456`
+访问 http://localhost:9000/cms 进入后台登录页面，默认系统管理员账号/密码为 `admin`/`123456`
 
 ### 页面预览
 - 登录页面
