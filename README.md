@@ -1,6 +1,6 @@
 # goravel-vue-admin
 
-### 技术栈
+### Technology Stack
 vue3 + element-plus  + tailwindcss + vite
 
 ### Installing yarn
@@ -18,86 +18,86 @@ yarn dev # Run the server
 
 Visit http://localhost:9000/cms to enter login page, default system administrator account/password is `admin`/`123456`
 
-### 页面预览
-- 登录页面
+### Page Preview
+- Login
 
 ![登录页面](/snapshot/login.png)
 
-- 首页
+- Home
 
 ![首页](/snapshot/home.png)
 
-- 基础设置
+- Base Setting
 
 ![基础设置](/snapshot/base-setting.png)
 
-- 邮箱设置
+- Email Setting
 
 ![邮箱设置](/snapshot/mail-setting.png)
 
-- 验证码设置
+- Captcha Setting
 
 ![验证码设置](/snapshot/captcha-setting.png)
 
-- 存储设置
+- Storage Setting
 
 ![存储设置](/snapshot/storage-setting.png)
 
 
-- 页面设置
+- Page Setting
 
 ![页面设置](/snapshot/page-setting.png)
 
-- 主题设置
+- Theme Setting
 
 ![主题设置](/snapshot/theme-setting.png)
 
-- 菜单列表
+- Menu List
 
 ![菜单列表](/snapshot/menu-list.png)
 
-- 添加菜单
+- Menu Add
 
 ![添加菜单](/snapshot/menu-add.png)
 
-- 角色列表
+- Role List
 
 ![角色列表](/snapshot/role-list.png)
 
-- 添加角色
+- Role Add
 
 ![添加角色](/snapshot/role-add.png)
 
-- 账号列表
+- Account List
 
 ![账号列表](/snapshot/admin-list.png)
 
-- 添加账号
+- Account Add
 
 ![添加账号](/snapshot/admin-add.png)
 
 
-- 附件管理
+- Attachment List
 
 ![附件管理](/snapshot/attach-list.png)
 
 
-- 修改账号
+- Account Edit
 
 ![修改账号](/snapshot/profile.png)
 
-- 修改头像
+- Avatar Edit
 
 ![修改头像](/snapshot/avatar-edit.png)
 
-- 内嵌页面
+- Iframe
 
 ![内嵌页面](/snapshot/iframe.png)
 
-- 登录日志
+- Login Log
 
 ![登录日志](/snapshot/login-log.png)
 
-- 暗黑模式
+- Dark Mode
 
 ![暗黑模式](/snapshot/dark.png)

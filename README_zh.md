@@ -1,6 +1,6 @@
 # goravel-vue-admin
 
-### Technology Stack
+### 技术栈
 vue3 + element-plus  + tailwindcss + vite
 
 ### 安装 yarn
